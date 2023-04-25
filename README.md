@@ -31,3 +31,11 @@ bash <(curl -L https://raw.githubusercontent.com/siemenstutorials/V2flySocks/mas
 
 # Config.json
 wget -P /usr/local/etc/v2ray/ https://raw.githubusercontent.com/siemenstutorials/V2flySocks/master/config.json
+
+# Control 
+```bash
+service v2ray status
+service v2ray restat
+service v2ray restat
+````
+
