@@ -35,7 +35,7 @@ wget -P /usr/local/etc/v2ray/ https://raw.githubusercontent.com/siemenstutorials
 # Control 
 ```bash
 service v2ray status
-service v2ray restat
-service v2ray restat
+service v2ray stop
+service v2ray restart
 ````
 
