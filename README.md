@@ -1,6 +1,6 @@
 # V2flySocks
 # File Path
-
+````bash
 installed: /usr/local/bin/v2ray
 installed: /usr/local/bin/v2ctl
 installed: /usr/local/share/v2ray/geoip.dat
@@ -11,6 +11,7 @@ installed: /var/log/v2ray/access.log
 installed: /var/log/v2ray/error.log
 installed: /etc/systemd/system/v2ray.service
 installed: /etc/systemd/system/v2ray@.service
+````
 
 # install v2ray
 ```bash
