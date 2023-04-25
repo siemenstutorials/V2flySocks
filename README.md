@@ -28,3 +28,6 @@ bash <(curl -L https://raw.githubusercontent.com/siemenstutorials/V2flySocks/mas
 ```bash
 bash <(curl -L https://raw.githubusercontent.com/siemenstutorials/V2flySocks/master/v2fly.sh) --remove
 ````
+
+# Config.json
+wget -P /usr/local/etc/v2ray/ https://raw.githubusercontent.com/siemenstutorials/V2flySocks/master/config.json
